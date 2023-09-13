@@ -41,4 +41,8 @@ The client, represented by either the Edge or Chrome browser, interacts with the
 
 This project demonstrates a basic client-server architecture with encryption support and provides functionality for calculating Fibonacci numbers and reversing strings.
 
+## Attention
+- You need to get ssh private key and certification 
+
 ### Youtube Link
+https://youtu.be/YjaCB-1uHKA
