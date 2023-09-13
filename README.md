@@ -1,4 +1,4 @@
-# Cmpe312HW2
+# Cmpe322 Homework2
 ## Web Server and Web Service Project
 
 This project consists of three main components: a Web Server (WebServer), a Web Service (WebService), and a Client Browser (Edge or Chrome).
